@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and I study at Amnat Charoen School (ANC School)
 - 💞️ I’m looking to collaborate on RHY Project
 - 📫 How to reach me:
-        Be a programmer
+        Be a programmer, 
         Graduated from computer engineering
 
 <!---
