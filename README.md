@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cybloxboy
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and I study at Amnat Charoen School (ANC School)
-- 💞️ I’m looking to collaborate on RHY Project
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
         Be a programmer, 
         Graduated from computer engineering
